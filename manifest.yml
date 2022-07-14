@@ -1,0 +1,9 @@
+repo:
+  name: "Snippets n' Memes Actions"
+  version: 1.0
+  actions:
+  - name: "Terraform Plan/Apply"
+    version: 1.0
+    slug: terraform
+    file: terraform-plan.yml
+    author: dkoch84
